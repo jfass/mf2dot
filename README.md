@@ -3,7 +3,7 @@ Generate dot files from makefiles.
 
 First generate a dot file:
 ```
-./mf2dot example.mk example.dot
+./mf2dot.sh example.mk example.dot
 ```
   
 Then edit if desired, and make a png:
