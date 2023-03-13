@@ -1,5 +1,5 @@
 # mf2dot
-Generate dot files from makefiles.
+Generate dot files from makefiles. Requires edge (process to create target(s) from dependency(ies) annotations using '##' on 1st line of rule (see example.mk).
 
 First generate a dot file:
 ```

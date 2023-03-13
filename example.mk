@@ -1,5 +1,5 @@
 
-tmp1 : in.data  ## tool1
+tmp1 : in.data  ## tool1a,1b
 	touch tmp1
 
 tmp2 : in.data  ## tool2
